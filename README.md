@@ -74,25 +74,25 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-## Data Head:
+## data.head()
 ![image](https://github.com/divz2711/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121245222/648b3837-2b59-40f4-9e74-1cd7be5909b6)
 
-## Checking For Null Data:
+## data.isnull().sum():
 ![image](https://github.com/divz2711/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121245222/4d77593a-f9d8-456a-9477-8ac7a667ff77)
 
-## Data Information:
+## data.info()
 ![image](https://github.com/divz2711/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121245222/5b6e5a09-9a67-4c19-9aa3-736db402cb9a)
 
-## Elbow Method:
+## Elbow method graph
 ![image](https://github.com/divz2711/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121245222/65416470-b77c-4138-8543-1e454b9295e1)
 
-## Within Cluster Sum of Square (WCSS):
+## KMeans clusters
 ![image](https://github.com/divz2711/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121245222/8b7bebd1-9c52-4df2-8081-58aab8c10a32)
 
-## K-means:
+## y_pred
 ![image](https://github.com/divz2711/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121245222/8ecd01fd-27b9-4d33-b93b-4522884a3236)
 
-## Cluster:
+## Customers Segments Graph
 ![image](https://github.com/divz2711/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121245222/c5b21a65-5ccd-4346-bf19-d994ae6aad90)
 
 
